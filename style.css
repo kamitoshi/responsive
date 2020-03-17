@@ -27,8 +27,23 @@
   left:0;
   padding:5px;
 }
-.content-image{
-  width:100%;
+.content-image1{
+  height: 150px;
+  background-image:url("img/flow01.png");
+  background-size:cover;
+  background-position:bottom;
+}
+.content-image2{
+  height: 150px;
+  background-image:url("img/flow02.png");
+  background-size:cover;
+  background-position:bottom;
+}
+.content-image3{
+  height: 150px;
+  background-image:url("img/flow03.png");
+  background-size:cover;
+  background-position:bottom;
 }
 .content-box h3{
   margin:10px 0;
